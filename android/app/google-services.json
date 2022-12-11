@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "848010185374",
+    "project_id": "momo-ec6c4",
+    "storage_bucket": "momo-ec6c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848010185374:android:24bf389c085614722f098f",
+        "android_client_info": {
+          "package_name": "com.coust.momocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848010185374-4tm5mg3t3kril6cilgipmgvis3kfcu7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coust.momocar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "848010185374-asgjke5dugsc84l71ccu69ckmamdefse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATylGkiLRK4oPdy67vcj03mcA9OsCq6mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848010185374-asgjke5dugsc84l71ccu69ckmamdefse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848010185374-k3gfktbh7ndfi1tk67ssk04dhdbbsb5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.momoCar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848010185374:android:fa2e8cd0ce2ff48f2f098f",
+        "android_client_info": {
+          "package_name": "com.momocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848010185374-asgjke5dugsc84l71ccu69ckmamdefse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATylGkiLRK4oPdy67vcj03mcA9OsCq6mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848010185374-asgjke5dugsc84l71ccu69ckmamdefse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848010185374-k3gfktbh7ndfi1tk67ssk04dhdbbsb5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.momoCar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
