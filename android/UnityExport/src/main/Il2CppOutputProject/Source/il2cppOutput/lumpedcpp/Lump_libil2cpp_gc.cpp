@@ -1,7 +1,0 @@
-#include "il2cpp-config.h"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/BoehmGC.cpp"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/GCHandle.cpp"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/GarbageCollector.cpp"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/NullGC.cpp"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/WriteBarrier.cpp"
-#include "/Users/seoyeonho/ReactNative/momoCar/android/UnityExport/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/WriteBarrierValidation.cpp"
