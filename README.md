@@ -26,6 +26,7 @@
 - `Apache : 2.4`
 - `PHP : 7.3`
 - `MySQL : 5.7`
+- `Visual Studio Code, Android Studio, Xcode, Atom, FileZilla`
 
 ## 📷 프로젝트 사진
 <img src="https://user-images.githubusercontent.com/120333633/211866463-67c4a26d-e2c8-4e71-8c34-5fee886d3187.png"  width="200" height="400"/>
