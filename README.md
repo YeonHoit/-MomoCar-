@@ -5,9 +5,9 @@
 - 자동차 튜닝과 관련된 서비스를 제공하는 AOS, IOS App이다.
 
 ## 프로젝트 참여
-- 이윤걸, 김선룡 : 프로젝트 기획, 영업
-- 서연호 : React Native, PHP, MySQL 관련 개발
-- 김기승 : Unity, PHP, MySQL 관련 개발
+- 이윤걸, 김선룡 : 프로젝트 기획, 영업, 설계
+- [서연호](https://github.com/YeonHoit) : React Native 개발, PHP 개발, MySQL DB 설계 및 개발
+- [김기승](https://github.com/Giseung30) : Unity 개발, PHP 개발, MySQL DB 설계 및 개발
 
 ## 📑 프로젝트 기획
 - 자동차를 미리 튜닝해볼수 있는 가상튜닝 기능
@@ -39,3 +39,4 @@
 ## 👉 관련 링크
 - 구글 플레이 스토어 링크 : <https://play.google.com/store/apps/details?id=com.coust.momocar&hl=ko>
 - IOS 앱 스토어 링크 : <https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%ED%8A%9C%EB%8B%9D-%EC%9E%90%EB%8F%99%EC%B0%A8-3d%EA%B0%80%EC%83%81%ED%8A%9C%EB%8B%9D-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/id1614397520>
+- 모모카 프로젝트의 PHP 파일 및 DB 설계 : 
