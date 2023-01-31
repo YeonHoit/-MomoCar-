@@ -1,4 +1,4 @@
-export const serverUrl: string = 'https://momocartest.cafe24.com/'
+export const serverUrl: string = ''
 
 export const post = (url: string, data: FormData) =>
   fetch(serverUrl + 'ReactNative/' + url, {
